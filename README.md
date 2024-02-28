@@ -1,2 +1,4 @@
-# labarinto-projektas
+# Sveiki atvyke, cia mano projektas
+
+labirintaslabirintaslabirintaslabirintaslabirintaslabirintaslabirintaslabirintaslabirintaslabirintaslabirintaslabirintaslabirintaslabirintaslabirintaslabirintaslabirintaslabirintaslabirintaslabirintaslabirintaslabirintaslabirintas
  
