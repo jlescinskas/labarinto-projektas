@@ -1,0 +1,6 @@
+Max value: 7
+Min value: 1
+Even array:
+4 2 
+Odd array:
+3 7 5 1 
